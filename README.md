@@ -9,7 +9,7 @@ Through our analysis, we uncover interesting patterns indicative of money launde
 
 ## Group Members
 - **Dhanush Sambasivam**
-- **Madhumitha**
+- **Madhumitha Rajagopal**
 - **Lakshitha Senthil Kumar**
 - **Shrivarshan Periyaswamy**
 
